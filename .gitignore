@@ -1,0 +1,9 @@
+/java-agent/target/
+.settings
+.project
+.classpath
+
+.idea
+*.iws
+*.iml
+*.ipr
